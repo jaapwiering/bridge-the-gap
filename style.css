@@ -13,6 +13,5 @@ Tags: two-column, responsive-layout
 Text Domain: twentytwentyonechild
 */
 
-.entry-content {
-    font-family: 'Comic Sans', sans-serif;
-}
+/* Font Family */
+--global--font-secondary: var(--font-base, "Comic Sans MS", "Times New Roman", sans-serif);
