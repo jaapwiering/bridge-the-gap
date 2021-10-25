@@ -17,3 +17,6 @@ Case study to discover solutions to "bridge the gap" between web design and deve
 ## Deliverables
 - Article on a blog
 - Presentation on a conference
+
+## Breakthrough
+- I'm working my way back to Github.
